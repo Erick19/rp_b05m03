@@ -1,0 +1,9 @@
+<mvc:View controllerName="nsproy01.proy01.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Text id="id_text" text="Hola EV"></Text>
+        </content>
+    </Page>
+</mvc:View>
