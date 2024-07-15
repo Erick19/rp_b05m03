@@ -6,7 +6,8 @@ function (Controller) {
 
     return Controller.extend("nsproy01.proy01.controller.View1", {
         onInit: function () {
-
+            //aaaaaa
+            //bbbbbb
         }
     });
 });

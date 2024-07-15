@@ -3,6 +3,9 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
+            <HBox id="id_HBox" >
+                
+            </HBox>
             <Text id="id_text" text="Hola EV"></Text>
         </content>
     </Page>
